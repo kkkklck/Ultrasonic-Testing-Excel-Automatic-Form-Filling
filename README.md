@@ -1,7 +1,4 @@
 # Ultrasonic-Testing-Excel-Automatic-Form-Filling
-A Python tool for automating construction data reporting. It extracts inspection data from Word templates, categorizes structural components (columns, beams, supports), and generates formatted Excel reports. Designed to boost efficiency, reduce errors, and streamline construction documentation workflows.
-Automated Construction Data Reporting
-
 A Python-based automation tool designed to streamline inspection data processing in construction projects.
 It extracts measurement data from Word templates, categorizes structural components (columns, beams, supports), and generates formatted Excel reports with preserved styles.
 This project was originally developed during an internship to improve real-world engineering workflows, demonstrating skills in Python automation, data processing, and construction documentation.
